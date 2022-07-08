@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harshit Gaur
 
-- :school: I’m currently pursuing my Masters in Analytics at Northeastern University based in Boston, Massachusetts in the United States. The concentraion track for my majors is in Machine Learning and Artificial Intelligence.
+- :school: I’m currently pursuing my Masters in Analytics at Northeastern University based in Boston, Massachusetts in the United States. The concentration track for my majors is in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning the field of deep learning using Fastai along with my major subjects of data analytics and data science.
 - :computer: I have around 4 years of professional experience as a Software Engineer and an Analyst before my masters.
 - :mortar_board: I graduated as a Bachelor of Technology majoring in Information Technology from Guru Gobind Singh Indraprastha University, India.
