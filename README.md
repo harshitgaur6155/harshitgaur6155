@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Harshit Gaur
 
-- :school: I recently graduated with my Master's degree, majoring in Data Analytics and Machine Learning, from Northeastern University based in Boston, Massachusetts in the United States.
-- 🌱 I’m currently learning the field of deep learning using Fastai along with my major subjects of data analytics and data science.
-- :computer: I have around 4 years of professional experience as a Software Engineer and a Data Scientist before my masters.
-- :mortar_board: I graduated as a Bachelor of Technology majoring in Information Technology from Guru Gobind Singh Indraprastha University, India.
+- :briefcase: I’m currently working as a Lead Data Analyst/Data Scientist at Greatpoint HR, where I design ETL pipelines, build strategic Tableau dashboards, and apply predictive modeling and Large Language Models (LLMs) to improve analytics accuracy.
+- :school: I graduated with my Master's degree, majoring in Data Analytics and Machine Learning, from Northeastern University, Boston, Massachusetts, in April 2023.
+- 🌱 I’m currently exploring the field of NLP and Large Language Models (LLMs).
+- :computer: I have around 6 years of professional experience as a Data Scientist, Data Analyst, and Software Engineer.
+- :mortar_board: I graduated with a Bachelor of Technology majoring in Information Technology from Guru Gobind Singh Indraprastha University, India.
 - 💬 Ask me about anything you would like to know from me. We will surely have our conversation!
 - 📫 How to reach me: harshit.gaur6155@gmail.com
 - 😄 Pronouns: He/Him
