@@ -6,7 +6,9 @@
 - :computer: I have around 6 years of professional experience as a Data Scientist, Data Analyst, and Software Engineer.
 - :mortar_board: I graduated with a Bachelor of Technology majoring in Information Technology from Guru Gobind Singh Indraprastha University, India.
 - 💬 Ask me about anything you would like to know from me. We will surely have our conversation!
-- 📫 How to reach me: harshit.gaur6155@gmail.com
+- 📫 How to reach me:
+  - ➡️ ✉️ Email me: harshit.gaur6155@gmail.com
+  - ➡️ 📅 Schedule a meeting: https://calendly.com/gaurharshit04/30min
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learnt to cook after coming to Boston. Hell of a ride to be able to produce masterchef-esque dish! 
               </br>~~Lol, just kidding...~~ 
