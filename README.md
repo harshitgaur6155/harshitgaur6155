@@ -21,9 +21,11 @@ LinkedIn - https://www.linkedin.com/in/harshitgaur-/ </br>
 Tableau - https://public.tableau.com/app/profile/harshitgaur </br>
 RPubs - https://rpubs.com/harshitgaur </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitgaur6155&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitgaur6155&show_icons=true&theme=radical) --> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgaur6155)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshitgaur6155&theme=radical)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgaur6155&theme=radical)
 
 
 *_Thanks for visiting my profile! Already looking forward to connecting with you._* :grin:
