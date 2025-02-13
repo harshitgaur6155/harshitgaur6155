@@ -23,6 +23,11 @@ LinkedIn - https://www.linkedin.com/in/harshitgaur-/ </br>
 Tableau - https://public.tableau.com/app/profile/harshitgaur </br>
 RPubs - https://rpubs.com/harshitgaur </br>
 
+## 📌 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=harshitgaur6155&color=brightgreen)
+
+---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitgaur6155&show_icons=true&theme=radical) --> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshitgaur6155&theme=radical)](https://git.io/streak-stats)
