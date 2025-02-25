@@ -137,7 +137,7 @@ RPubs - https://rpubs.com/harshitgaur </br> -->
       <!-- <img width="150" alt="Facial Expression Classification" src="https://miro.medium.com/max/1400/1*7W1jVsGGnDcrxYr3M6FYWg.gif" /> -->
     </td>
     <td>A deep learning-based facial expression classifier that detects and categorizes emotions from images using CNNs. The model is deployed via a web application for real-time emotion recognition.</td>
-    <td>CNN, Python, TensorFlow, Keras, Render</td>
+    <td>Convolution Neural Network (CNN), VGG-16, EfficientNet-B5, Python, TensorFlow, Keras, Render</td>
     <td>
       <a href="https://github.com/harshitgaur6155/facial-expression-classification">GitHub Repo</a>
     </td>
@@ -234,7 +234,7 @@ Feel free to reach out to me through via email or any of the following platforms
 <br>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitgaur6155&show_icons=true&theme=radical) --> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshitgaur6155&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=harshitgaur6155&theme=radical)](https://git.io/streak-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgaur6155&theme=radical)
 
