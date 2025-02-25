@@ -37,17 +37,17 @@ RPubs - https://rpubs.com/harshitgaur </br> -->
 
 ## 🤖 Machine Learning, Deep Learning & AI
 
-- Machine Learning: 
-  <br>
-  `Supervised Learning` `Unsupervised Learning` `Regression` `Classification` `Random Forest` `XGBoost` `KNN` `K-Means` `DBSCAN` `PCA`
+<!-- - Machine Learning: 
+  <br> -->
+- `Supervised & Unsupervised Learning` `Regression` `Classification` `Random Forest` `XGBoost` `KNN` `K-Means` `DBSCAN` `PCA`
   
-- Deep LearningL
-  <br>
-  `ANN` `CNN` `RNN`
+<!-- - Deep LearningL
+  <br> -->
+- `ANN` `CNN` `RNN`
 
-- Natural Language Processing (NLP) & Generative AI (GenAI):
-  <br>
-  `Large Language Models (LLMs)` `BERT` `GPT` `LLaMA` `Transformers` `Retrieval Augmented Systems (RAGs)` `Agentic AI` `WhisperAI`
+<!-- - Natural Language Processing (NLP) & Generative AI (GenAI):
+  <br> -->
+- `Large Language Models (LLMs)` `BERT` `GPT` `LLaMA` `Transformers` `Retrieval Augmented Systems (RAGs)` `Agentic AI` `WhisperAI`
 
 
 <br>
@@ -120,11 +120,108 @@ RPubs - https://rpubs.com/harshitgaur </br> -->
 
 <br>
 
+## 📚 Featured Projects
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Languages/ Tools Used</th>
+    <th>Repository</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Facial Expression Classification</b>
+      <br>
+      <!-- <img width="150" alt="Facial Expression Classification" src="https://miro.medium.com/max/1400/1*7W1jVsGGnDcrxYr3M6FYWg.gif" /> -->
+    </td>
+    <td>A deep learning-based facial expression classifier that detects and categorizes emotions from images using CNNs. The model is deployed via a web application for real-time emotion recognition.</td>
+    <td>CNN, Python, TensorFlow, Keras, Render</td>
+    <td>
+      <a href="https://github.com/harshitgaur6155/facial-expression-classification">GitHub Repo</a>
+    </td>
+    <td>
+      <a href="https://facial-expression-classification.onrender.com">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Airbnb Price Recommender System</b>
+      <br>
+      <!-- <img width="150" alt="Airbnb Price Prediction" src="https://user-images.githubusercontent.com/674621/71187892-feb1dc80-2255-11ea-9d27-c1617b1ec7f5.png" /> -->
+    </td>
+    <td>A machine learning-powered Airbnb price prediction system that recommends optimal pricing based on location, amenities, and market trends. Deployed via Streamlit for interactive user input.</td>
+    <td>Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, SHAP</td>
+    <td>
+      <a href="https://github.com/harshitgaur6155/airbnb_price_prediction_streamlit_app">GitHub Repo</a>
+    </td>
+    <td>
+      <a href="https://harshitgaur6155-airbnb-price-prediction-streamlit-ap-app-b23x62.streamlit.app/">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>H&M - Customer Purchase Prediction</b>
+      <br>
+      <!-- <img width="150" alt="H&M Customer Purchase Prediction" src="https://miro.medium.com/max/1400/1*tl9PZ8Z6U_lazToL8XUTPA.png" /> -->
+    </td>
+    <td>A predictive model for forecasting customer purchases at H&M using transactional data, feature engineering, and machine learning models to enhance marketing strategies.</td>
+    <td>Python, Scikit-learn, XGBoost, Feature Engineering, Pandas</td>
+    <td>
+      <a href="https://github.com/harshitgaur6155/HnM_Customer_Purchase_Prediction">GitHub Repo</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Demand Analysis of BLUEbikes</b>
+      <br>
+      <!-- <img width="150" alt="Bluebikes Demand Analysis" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Blue_Bikes_Boston_Docked.jpg" /> -->
+    </td>
+    <td>A Tableau dashboard that visualizes bike-sharing demand patterns across different seasons and demographics, aiding operational planning and expansion strategies.</td>
+    <td>Tableau, Data Visualization, Analytics</td>
+    <td></td>
+    <td>
+      <a href="https://public.tableau.com/app/profile/harshitgaur/viz/DemandAnalysisofBLUEbikes/Dashboard1">View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>NYC Tree Census - Tableau Dashboard</b>
+      <br>
+      <!-- <img width="150" alt="NYC Tree Census Dashboard" src="https://www.nycgovparks.org/pagefiles/144/large-tree-census-photo.jpg" /> -->
+    </td>
+    <td>An interactive Tableau visualization that provides insights into NYC’s tree census data, analyzing tree species, health, and environmental impact.</td>
+    <td>Tableau, Data Analytics, Visualization</td>
+    <td></td>
+    <td>
+      <a href="https://public.tableau.com/app/profile/harshitgaur/viz/NYCTreeCensus2015-DataAnalysisDashboard/NYCTreeCensus2015-StoryPrediction">View Dashboard</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Top 10 CEOs - Tableau Dashboard</b>
+      <br>
+      <!-- <img width="150" alt="Top CEOs Dashboard" src="https://www.theceomagazine.com/wp-content/uploads/2021/06/top10ceos2021.jpg" /> -->
+    </td>
+    <td>A data-driven visualization showcasing the top 10 CEOs based on various performance metrics, providing insights into leadership effectiveness and financial impact.</td>
+    <td>Tableau, Data Analytics, Business Intelligence</td>
+    <td></td>
+    <td>
+      <a href="https://public.tableau.com/app/profile/harshitgaur/viz/Top10CEOs_16770544408380/Dashboard1">View Dashboard</a>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
 ## 📣 Let's Connect
 
 Feel free to reach out to me through via email or any of the following platforms:
-- [Email](harshit.gaur6155@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/harshitgaur-/)
+- [Email Me](harshit.gaur6155@gmail.com)
+- [Go to LinkedIn](https://www.linkedin.com/in/harshitgaur-/)
 - [GitHub](https://github.com/harshitgaur6155)
 
 
